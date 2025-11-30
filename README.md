@@ -4,7 +4,8 @@ A simple distributed application running across multiple Docker containers.
 
 ## Getting started
 
-Download [Docker Desktop](https://www.docker.com/products/docker-desktop) for Mac or Windows. [Docker Compose](https://docs.docker.com/compose) will be automatically installed. On Linux, make sure you have the latest version of [Compose](https://docs.docker.com/compose/install/).
+<img width="473" height="214" alt="image" src="https://github.com/user-attachments/assets/693596cd-3bca-4447-9fcf-5f94542a8639" />
+
 
 This solution uses Python, Node.js, .NET, with Redis for messaging and Postgres for storage.
 
